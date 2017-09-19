@@ -1,19 +1,10 @@
 {
-    "id": "2fe74deb-be2d-4c6b-96d6-8f8155d3c4c6",
+    "id": "e733056f-17be-4fe0-a4c6-2474d4f1b893",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_gameController",
+    "name": "obj_spaceStationCollision",
     "eventList": [
-        {
-            "id": "618ac441-51b6-401b-8825-f4e0662b8bd1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "2fe74deb-be2d-4c6b-96d6-8f8155d3c4c6"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +22,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "spriteId": "ec58d4bb-2d1c-40ec-a429-93b5d83db0df",
     "visible": false
 }

@@ -1,19 +1,10 @@
 {
-    "id": "2fe74deb-be2d-4c6b-96d6-8f8155d3c4c6",
+    "id": "728fbe60-2d3e-45a7-b841-98ad70dca03f",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_gameController",
+    "name": "obj_gameOver",
     "eventList": [
-        {
-            "id": "618ac441-51b6-401b-8825-f4e0662b8bd1",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "2fe74deb-be2d-4c6b-96d6-8f8155d3c4c6"
-        }
+        
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
