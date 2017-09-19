@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "1cda9278-698c-4fd4-9ae1-aa0a269e41ec",
+            "Value": {
+                "id": "33ba7852-ca89-450d-bb6b-2c1e4ba32df4",
+                "resourcePath": "objects\\obj_credits\\obj_credits.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "1cfcda89-14b0-4e26-a2c0-681b11f97d79",
             "Value": {
                 "id": "eea6551a-e12d-41d2-bd60-d0ec969f7aac",
@@ -143,6 +151,14 @@
             }
         },
         {
+            "Key": "42e162bd-873a-4a92-8b5b-9cc1cce405be",
+            "Value": {
+                "id": "251ebab8-8d9a-4f92-89b9-d06fb21487db",
+                "resourcePath": "objects\\obj_scoreValue\\obj_scoreValue.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "484af05b-23b1-4f63-bf0e-74072a910872",
             "Value": {
                 "id": "963e4b7f-6a97-4bce-b1f0-d3f89f73f9e3",
@@ -195,6 +211,14 @@
             "Value": {
                 "id": "b575e272-0f97-4451-860c-d9870362e782",
                 "resourcePath": "objects\\obj_artScore\\obj_artScore.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "555d38a8-1c64-4819-a2f3-c3d1cb378ecf",
+            "Value": {
+                "id": "4cd333d7-fd24-4370-9637-af58405178cb",
+                "resourcePath": "objects\\obj_enemyMissilesSpawner\\obj_enemyMissilesSpawner.yy",
                 "resourceType": "GMObject"
             }
         },
