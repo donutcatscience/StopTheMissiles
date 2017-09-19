@@ -1,6 +1,6 @@
 /// @description initialize variables
 
-var hFallSpeed = choose(-4,-3,-2,-1,1,2,3,4);
+var hFallSpeed = choose(-3,-3,-2,-1,1,2,3,3);
 var vFallSpeed = irandom_range(5,10);
 
 hspeed = hFallSpeed;
