@@ -17,6 +17,7 @@ score = 0;
 health = 100;
 layer_set_visible("SpaceStation",true);
 instance_create_layer(0,704,"ActiveGame",obj_spaceStationCollision);
+instance_create_layer(1,1,"ActiveGame",obj_healthPackSpawner);
 instance_create_layer(192,732,"ActiveGame",obj_healthBar);
 instance_create_layer(192,736,"ActiveGame",obj_healthBarEmpty);
 

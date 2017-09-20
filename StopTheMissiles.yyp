@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "26c66c00-6999-4dc7-83b6-30fbf9a19722",
+            "Value": {
+                "id": "ac3dc6d5-9a38-4b86-9dcb-9d56f13397dd",
+                "resourcePath": "sprites\\spr_healthPack02\\spr_healthPack02.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2fe74deb-be2d-4c6b-96d6-8f8155d3c4c6",
             "Value": {
                 "id": "dd84d91e-00d8-4ee3-a03e-5fa34514081c",
@@ -207,6 +215,14 @@
             }
         },
         {
+            "Key": "509b9b74-80eb-4002-b07a-3c747d1bc042",
+            "Value": {
+                "id": "2f56cf1d-2c30-46d3-9e2d-17c928049697",
+                "resourcePath": "sounds\\sfx_healthPack\\sfx_healthPack.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "5267037e-4edd-4a02-8b0c-6fad67df7a66",
             "Value": {
                 "id": "05867281-94be-4c98-81b3-3df29dcba53a",
@@ -252,6 +268,22 @@
                 "id": "4cd333d7-fd24-4370-9637-af58405178cb",
                 "resourcePath": "objects\\obj_enemyMissilesSpawner\\obj_enemyMissilesSpawner.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5f5f5941-562a-4fe8-830c-b5160d0791ab",
+            "Value": {
+                "id": "97f8b0e0-a26e-45b2-b364-943162915fd8",
+                "resourcePath": "objects\\obj_healthPackSpawner\\obj_healthPackSpawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "61832a3d-615b-4bfc-a679-40ba1ba89641",
+            "Value": {
+                "id": "c0626ff4-c0ca-454b-b343-41637952e8a1",
+                "resourcePath": "sprites\\spr_healthPack03\\spr_healthPack03.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -372,6 +404,14 @@
                 "id": "c7d96630-a146-4652-a8f6-e2e94786d4f0",
                 "resourcePath": "sprites\\spr_explosion\\spr_explosion.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "87f5ec08-512e-41ce-a0d2-4248b89001ea",
+            "Value": {
+                "id": "fa5629b0-06cf-4094-b401-c06cf107f578",
+                "resourcePath": "objects\\obj_healthPack\\obj_healthPack.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -559,11 +599,27 @@
             }
         },
         {
+            "Key": "f23f6d8f-d884-4cef-9c1e-ba06522e0eb2",
+            "Value": {
+                "id": "1c4b7631-6c3e-45c7-b571-34dc6afc668d",
+                "resourcePath": "sprites\\spr_healthPack01\\spr_healthPack01.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "701e97f9-f1cd-4a6e-a029-f7f6793ef0e6",
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f7c3f4bb-8fe5-4b9b-8b66-d10081751d3e",
+            "Value": {
+                "id": "8295a989-9312-4047-86d5-725b99acf6f4",
+                "resourcePath": "sprites\\spr_healthPack04\\spr_healthPack04.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
