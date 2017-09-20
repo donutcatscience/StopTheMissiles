@@ -2,7 +2,7 @@
 
 //for loop so that there is almost always one enemy
 do {
-	randomMissileX = random_range(300,600); //sets random location inside room
+	randomMissileX = random_range(200,700); //sets random location inside room
 	}
 until (place_free(randomMissileX,-50)); // loops until free space is found
 if !instance_exists(obj_enemyMissiles) { //if there are no enemies on screen, make one

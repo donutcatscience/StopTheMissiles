@@ -21,6 +21,8 @@ instance_create_layer(192,732,"ActiveGame",obj_healthBar);
 instance_create_layer(192,736,"ActiveGame",obj_healthBarEmpty);
 
 //load enemey assets
+instance_create_layer(0,384,"ActiveGame",obj_wall);
+instance_create_layer(1024,384,"ActiveGame",obj_wall);
 instance_create_layer(1,1,"ActiveGame",obj_enemyMissilesSpawner);
 
 //destroy self
