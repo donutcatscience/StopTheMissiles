@@ -1,6 +1,6 @@
 /// @description plays animation and increases health
 
-//instance_create_layer(x,y,"Instances",obj_explosion);
+audio_play_sound(sfx_healthPack,1,false);
 health = health + 10;
 
 //keep health from going over 100

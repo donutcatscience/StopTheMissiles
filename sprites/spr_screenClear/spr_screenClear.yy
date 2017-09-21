@@ -2,7 +2,7 @@
     "id": "61832a3d-615b-4bfc-a679-40ba1ba89641",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_healthPack03",
+    "name": "spr_screenClear",
     "For3D": false,
     "HTile": false,
     "VTile": false,

@@ -2,7 +2,7 @@
 
 for (var i = 0; i < gameStage; i += 1) {
    do {
-		randomMissileX = random_range(200,700); //sets random location inside room
+		randomMissileX = random_range(100,900); //sets random location inside room
 	}
 	until (place_free(randomMissileX,-50)); // loops until free space is found
 		instance_create_layer(randomMissileX,-50,"ActiveGame",obj_enemyMissiles);

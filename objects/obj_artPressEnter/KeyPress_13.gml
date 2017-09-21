@@ -5,6 +5,8 @@ instance_destroy(obj_artCredits);
 instance_destroy(obj_artScore);
 instance_destroy(obj_scoreValue);
 instance_destroy(obj_artGameOver);
+instance_destroy(obj_enemyMissilesGameOver);
+instance_destroy(obj_gameOverMissiles);
 
 //handel UI & Audio
 audio_stop_all();
@@ -22,8 +24,6 @@ instance_create_layer(192,732,"ActiveGame",obj_healthBar);
 instance_create_layer(192,736,"ActiveGame",obj_healthBarEmpty);
 
 //load enemey assets
-instance_create_layer(0,384,"ActiveGame",obj_wall);
-instance_create_layer(1024,384,"ActiveGame",obj_wall);
 instance_create_layer(1,1,"ActiveGame",obj_enemyMissilesSpawner);
 
 //destroy self

@@ -5,8 +5,7 @@ do {
 	randomMissileX = random_range(100,900); //sets random location inside room
 	}
 until (place_free(randomMissileX,-50)); // loops until free space is found
-if !instance_exists(obj_enemyMissiles) { //if there are no enemies on screen, make one
-		instance_create_layer(randomMissileX,-50,"ActiveGame",obj_enemyMissiles);
-}
+instance_create_layer(randomMissileX,-50,"ActiveGame",obj_gameOverMissiles);
+
 //set short alarm to keep 1 missile spawning often
 alarm_set(0,(room_speed * random_range(0.5, 2)));

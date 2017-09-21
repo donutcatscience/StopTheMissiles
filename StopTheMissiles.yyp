@@ -167,6 +167,14 @@
             }
         },
         {
+            "Key": "3af47c9e-3c0a-4ef3-b3f5-a5686264a8a6",
+            "Value": {
+                "id": "2f673596-eb88-412f-b010-66e9e308f777",
+                "resourcePath": "objects\\obj_enemyMissilesGameOver\\obj_enemyMissilesGameOver.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3bf26254-7d19-4566-8dd5-e91eb5adb78a",
             "Value": {
                 "id": "bbe8c5fb-138b-49bb-8f4a-b6d6d0913258",
@@ -203,6 +211,14 @@
             "Value": {
                 "id": "c3a0b7cb-db06-441c-a3f4-af8a32c6385a",
                 "resourcePath": "objects\\obj_enemyMissiles\\obj_enemyMissiles.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4c18337b-748d-478f-88da-baa67819ae8c",
+            "Value": {
+                "id": "bc43157c-8044-4a44-b0a1-becc0dd91026",
+                "resourcePath": "objects\\obj_screenClear\\obj_screenClear.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -282,7 +298,7 @@
             "Key": "61832a3d-615b-4bfc-a679-40ba1ba89641",
             "Value": {
                 "id": "c0626ff4-c0ca-454b-b343-41637952e8a1",
-                "resourcePath": "sprites\\spr_healthPack03\\spr_healthPack03.yy",
+                "resourcePath": "sprites\\spr_screenClear\\spr_screenClear.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -332,6 +348,14 @@
                 "id": "4316043f-53f8-4366-97d6-1a4e042f16ed",
                 "resourcePath": "sprites\\bg_space02\\bg_space02.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "70e5f643-168e-46b8-b0b7-73d9f605efe1",
+            "Value": {
+                "id": "f5b571c7-235d-4240-9979-f97997c88ff1",
+                "resourcePath": "sounds\\sfx_screenClear\\sfx_screenClear.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -415,10 +439,10 @@
             }
         },
         {
-            "Key": "8e735906-3712-4b2d-8ccd-d857d09c2658",
+            "Key": "880dfdfd-85f4-4b55-a8bb-8e6f0400ae1e",
             "Value": {
-                "id": "50e0dedb-d204-45d2-b868-af996100da08",
-                "resourcePath": "objects\\obj_restartGame\\obj_restartGame.yy",
+                "id": "ca4b1c6c-de8f-4eba-ab43-f8d1b3cfb624",
+                "resourcePath": "objects\\obj_gameOverMissiles\\obj_gameOverMissiles.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -532,6 +556,14 @@
                 "id": "35549ab9-06f6-487a-a4e0-e30e49df6f54",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cea9b41d-6d95-4dd0-9e8a-9c0b7c304efa",
+            "Value": {
+                "id": "cdb0181d-4918-4073-a6c9-b65a596cc32a",
+                "resourcePath": "objects\\obj_screenClearSpawn\\obj_screenClearSpawn.yy",
+                "resourceType": "GMObject"
             }
         },
         {

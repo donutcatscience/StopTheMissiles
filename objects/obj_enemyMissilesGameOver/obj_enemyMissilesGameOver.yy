@@ -1,18 +1,28 @@
 {
-    "id": "b87ec14e-75ad-49ea-95c4-a853dc4d5bb5",
+    "id": "3af47c9e-3c0a-4ef3-b3f5-a5686264a8a6",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_artPressEnter",
+    "name": "obj_enemyMissilesGameOver",
     "eventList": [
         {
-            "id": "93f830c5-8c67-49af-a542-2e261277cad3",
+            "id": "7c238c70-21c1-440f-a678-8de2252892db",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 13,
-            "eventtype": 9,
-            "m_owner": "b87ec14e-75ad-49ea-95c4-a853dc4d5bb5"
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "3af47c9e-3c0a-4ef3-b3f5-a5686264a8a6"
+        },
+        {
+            "id": "9072d2d9-67c4-4972-9162-14b2026cbf6e",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "3af47c9e-3c0a-4ef3-b3f5-a5686264a8a6"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -31,6 +41,6 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "solid": false,
-    "spriteId": "1cfcda89-14b0-4e26-a2c0-681b11f97d79",
-    "visible": true
+    "spriteId": "00000000-0000-0000-0000-000000000000",
+    "visible": false
 }
