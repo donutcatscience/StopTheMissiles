@@ -6,3 +6,8 @@ var vFallSpeed = irandom_range(.5,2);
 
 hspeed = hFallSpeed;
 vspeed = vFallSpeed;
+
+currentLocationX = 0;
+currentLocationY = 0;
+currentNumberMissiles = 0;
+eachMissile = 0;

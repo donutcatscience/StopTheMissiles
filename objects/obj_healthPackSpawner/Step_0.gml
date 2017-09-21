@@ -6,5 +6,5 @@ if (instance_exists(obj_spaceStationCollision)) {
 		stageDuration = 0;
 		alarm_set(1,1);
 	}
-	else stageDuration++;
+else stageDuration++;
 }

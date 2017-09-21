@@ -5,3 +5,5 @@ var vFallSpeed = irandom_range(2.5,5);
 
 hspeed = hFallSpeed;
 vspeed = vFallSpeed;
+
+selfExplode = 0;
